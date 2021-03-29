@@ -1,4 +1,4 @@
-# Chapter 01.
+# Chapter 02.
 
 ## 도전 과제
 
