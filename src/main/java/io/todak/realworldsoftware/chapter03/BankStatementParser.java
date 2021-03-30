@@ -1,9 +1,11 @@
-package io.todak.realworldsoftware.chapter01;
+package io.todak.realworldsoftware.chapter03;
 
 import java.util.List;
 
 public interface BankStatementParser {
+
     BankTransaction parseFrom(String line);
 
     List<BankTransaction> parseLinesFrom(List<String> lines);
+
 }

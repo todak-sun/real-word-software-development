@@ -1,4 +1,4 @@
-package io.todak.realworldsoftware.chapter01;
+package io.todak.realworldsoftware.chapter02;
 
 import java.io.IOException;
 import java.nio.file.Files;

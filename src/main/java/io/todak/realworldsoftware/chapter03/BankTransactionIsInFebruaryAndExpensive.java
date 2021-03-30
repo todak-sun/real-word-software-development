@@ -1,4 +1,4 @@
-package io.todak.realworldsoftware.chapter02;
+package io.todak.realworldsoftware.chapter03;
 
 import java.time.Month;
 

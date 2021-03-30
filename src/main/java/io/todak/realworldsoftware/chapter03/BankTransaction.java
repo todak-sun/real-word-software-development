@@ -1,4 +1,4 @@
-package io.todak.realworldsoftware.chapter01;
+package io.todak.realworldsoftware.chapter03;
 
 import java.time.LocalDate;
 import java.util.Objects;
